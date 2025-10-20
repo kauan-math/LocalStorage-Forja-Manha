@@ -5,6 +5,26 @@
 }
 
 body{
-    font-family: "Bold", sans-serif;
+    font-family: "Bold", sans-serif !important;
+    width: 100vw;
+    height: auto;
+    overflow-x: hidden;
+    padding: 20px;
 }
 
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    padding: 5%;
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center; 
+    gap: 30px;
+}

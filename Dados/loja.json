@@ -1,77 +1,62 @@
 [
     {
         "id": 1,
-        "desc": "",
-        "imagem":"",
-        "preco":,
+        "desc": "Camisa Corteiz",
+        "imagem":"../Dados/Images/camisa6.webp",
+        "preco": 500.00
     },
-
     {
         "id": 2,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Calça Denim Azul",
+        "imagem":"../Dados/Images/calca1.jpg",
+        "preco": 175.00
+    },
     {
         "id": 3,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Tee Sosa Boxy",
+        "imagem":"../Dados/Images/camisa5.webp",
+        "preco": 219.00
+    },
     {
         "id": 4,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Moletom Cruz Streetwear",
+        "imagem":"../Dados/Images/moletom1.webp",
+        "preco": 190.00
+    },
    {
         "id": 5,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Syna Word Conjunto",
+        "imagem":"../Dados/Images/conjunto.webp",
+        "preco": 180.00
+   },
     {
         "id": 6,
-        "desc":"",
-        "imagem":"",
-        "preco":,
+        "desc":"Moletom Panda Luta",
+        "imagem":"../Dados/Images/moletom2.jpg",
+        "preco": 80.00
     },
-        {
+    {
         "id": 7,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Camisa Streetwear Carro",
+        "imagem":"../Dados/Images/camisa4.webp",
+        "preco": 120.00
+    },
     {
         "id": 8,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Camisa Cesta de Basquete Streetwear",
+        "imagem":"../Dados/Images/camisa1.webp",
+        "preco": 90.00
+    },
     {
         "id": 9,
-        "desc":"",
-        "imagem":"",
-        "preco":,
-    }
-,
-
+        "desc":"Camisa Today is a Good Day",
+        "imagem":"../Dados/Images/camisa2.webp",
+        "preco": 130.00
+    },
    {
         "id": 10,
-        "desc":"",
-        "imagem":"",
-        "preco":,
+        "desc":"Camisa Streetwear Flor Blunt",
+        "imagem":"../Dados/Images/camisa3.webp",
+        "preco": 95.00
     }
 ]
